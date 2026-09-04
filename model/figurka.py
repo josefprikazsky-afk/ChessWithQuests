@@ -3,6 +3,7 @@ class Figurka:
         self.__barva = barva
         self._typ = typ
         self._vektory = None
+        #comment
 
 
     def getSmery(self):
