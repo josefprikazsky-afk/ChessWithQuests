@@ -1,3 +1,5 @@
+from abc import ABC, abstractmethod
+from typing import List, Tuple, Optional, Any
 # ==========================================
 # 3. CONTROLLER (Řídící logika)
 # ==========================================
